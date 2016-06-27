@@ -8,4 +8,4 @@ mango的中文名是“芒果”，它是一个轻量级极速数据层访问框
 * 高效详细的log统计，方便开发者随时了解自己的系统 
 * 独立jar包，不依赖其它jar包 
 * 提供便捷的spring插件，与spring无缝集成
-mongo-demo-practise是mango的使用demo，实现操作表的实例，分表操作的实例。
+++mongo-demo-practise是mango的使用demo，实现操作表的实例，分表操作的实例。
